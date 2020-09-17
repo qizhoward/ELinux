@@ -32,5 +32,42 @@
                 pc Linux Image Program
                 Phone Linux Image Program
                 Phone Image Program
-                     
+                
+                
+          ------------ELinux     
+                ｜｜
+                ｜｜---------PDF
+                ｜｜    ｜
+                ｜｜    ｜Linux
+                ｜｜    ｜----------PDF
+                ｜｜    ｜    ｜3D
+                ｜｜    ｜    
+                ｜｜          
+                ｜｜Linux PDF
+                ｜｜----------
+                ｜｜    ｜｜｜PDF1
+                ｜｜    ｜｜｜PDF2
+                ｜｜    ｜｜｜PDF3    
+                ｜｜    ｜｜3D1 Linux PDF
+                ｜｜    ｜｜----------
+                ｜｜    ｜｜｜PDF2 
+                ｜｜    ｜｜｜PDF1
+                ｜｜    ｜｜｜PDF3
+                ｜｜    ｜｜3D2 same as 3D1
+                ｜｜    ｜｜---------
+                ｜｜    ｜｜｜PDF3
+                ｜｜    ｜｜｜PDF1
+                ｜｜    ｜｜｜PDF2
+                ｜｜    ｜｜3D3 same as 3D1,()like use ignore
+                ｜｜    ｜｜---------
+                ｜｜    ｜｜｜PDF3
+                ｜｜    ｜｜｜PDF2
+                ｜｜    ｜｜｜PDF1
+                ｜｜    ｜｜3D4 same as 3D1 but ignore
+                ｜｜    ｜3D+1D ignore 3D like as 4D zone but different 
+                ｜｜   all 3D
+                ｜｜
+                ｜3D
+      
+              
                 
